@@ -1,0 +1,15 @@
+.place__like {
+  min-width: 22px;
+  min-height: 19px;
+  background-image: url(../../../images/heart.svg);
+  object-fit: cover;
+  border: none;
+  background-color: #ffffff;
+  padding: 0;
+  margin-right: 5px;
+}
+
+.place__like:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
