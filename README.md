@@ -10,8 +10,8 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.62.130
+IP 158.160.62.130
 
-Frontend https://...
+Frontend https://verele.nomoredomainsicu.ru
 
-Backend https://...
+Backend https://api.verele.nomoredomainsicu.ru
